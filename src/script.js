@@ -1,4 +1,3 @@
-import './styles.scss';
 window.onload = function(){
   let navActive = false;
   nav_btn = document.querySelector('#nav-btn');
